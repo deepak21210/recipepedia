@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Poppins:wght@200&display=swap');
+
+
+:root{
+    --primary : #edf6f9;
+    --secondary : #006d77;
+    --thrid : #83c5be;
+    --heading : 'Agbalumo';
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
